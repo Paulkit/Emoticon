@@ -1,0 +1,2 @@
+# Emoticon
+Assignment project - Emoticon
