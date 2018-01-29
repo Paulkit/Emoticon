@@ -2,7 +2,7 @@
 Assignment project - Emoticon (顏面)
 
 -- Open in Unity3d version 2017.2.0f3 --</br>
-Can build in all platform
+Can build and run in Windows platform
 
 </br>
 
